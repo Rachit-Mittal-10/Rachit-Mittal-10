@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rachit-Mittal-10
-- 👀 I’m interested in coding, rading and writing.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in coding, reading and writing.
+- I am comfortable in C++, Java and Python.
+- 🌱 I’m currently learning DSA with C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
