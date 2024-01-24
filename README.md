@@ -2,6 +2,8 @@
 -  I’m interested in coding, reading and writing.
 -  I am comfortable in C++, Java and Python.
 -  I’m currently learning DSA with C++.
+-  I'm interested in Machine Learning. I am learning it.
+-  I'm learning Web Development too.
 -  I’m looking to collaborate on ...
 -  How to reach me ...
 
