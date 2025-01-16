@@ -4,7 +4,7 @@
 -  I can build the Web Applications in Express and React with SQL DB.
 -  I’m currently learning DSA with C++.
 -  I'm interested in Machine Learning. I am learning it.
--  - I had deep understanding of Docker and containerisation.
+-  I had deep understanding of Docker and containerisation.
 -  I'm deeply interested in expanding my knowledge and develop application to contribute to IT Industry.
 
 <!---
